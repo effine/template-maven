@@ -1,4 +1,4 @@
-package cn.effine.algorithm;
+package cn.effine.template;
 
 
 /**
